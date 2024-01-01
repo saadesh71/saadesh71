@@ -23,6 +23,12 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
+## A Bit More About Me
+
+- 💡 I find joy in tackling complex problems with elegant solutions, whether in code or in life.
+- 🐾 Love spending my downtime with dogs.
+- 🤝 Open to collaboration and keen on building things that make a difference.
+
 ## Reach Me Out At
 
 For a dash of code and a slice of life, let's connect across platforms.
