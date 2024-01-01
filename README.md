@@ -22,6 +22,9 @@
 
 ## Reach Me Out At
 
-📧 Gmail: [aadeshseshadri6@gmail.com](mailto:aadeshseshadri6@gmail.com)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aadesh_seshadri/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-seshadri/)
+[![GMail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadeshseshadri6@gmail.com)
+
 
 
