@@ -1,4 +1,4 @@
-Hey there! I'm Aadesh, the tech enthusiast and full-stack wizard behind this GitHub page. 🚀
+## Hey there! I'm Aadesh, the tech enthusiast and full-stack wizard behind this GitHub page. 🚀
 
 - 🖥️ **As a seasoned full-stack developer,** I blend creativity with functionality in every project.  
 - 🔍 _Dive into my repositories_ for a tour of my coding adventures - from sleek front-end designs to robust back-end systems.  
@@ -19,5 +19,9 @@ Hey there! I'm Aadesh, the tech enthusiast and full-stack wizard behind this Git
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+## Reach Me Out At
+
+📧 Gmail: [aadeshseshadri6@gmail.com](mailto:aadeshseshadri6@gmail.com)
 
 
