@@ -28,7 +28,7 @@
 Here's where you can click and see my work and projects come to life:
 
 - [My Portfolio](https://mypage.aadesh.site) - Explore my professional journey and projects.
-- [SignToText](https://signtotext.aadesh.site) - Discover [Sign Language Translator].
+- [SignToText](https://signtotext.aadesh.site) - Discover Sign Language Translator.
 
 ## A Bit More About Me
 
